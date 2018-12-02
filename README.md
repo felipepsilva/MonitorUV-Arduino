@@ -1,6 +1,6 @@
 # MonitorUV-Arduino
 
-O dispositivo mede a intensidade da radição ultravioleta incidente sobre ele, enviando periodicamente a medição para um sistema remoto através de uma rede Wi-fi.
+O dispositivo mede a intensidade da radição ultravioleta incidente sobre ele, enviando periodicamente a medida para um sistema remoto através de uma rede Wi-fi.
 
 ### Componentes
 - Arduino UNO
